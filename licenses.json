@@ -1,3 +1,12 @@
 {
-  "licenses": {}
+  "licenses": {
+    "KPOY-WVA0-2ZOI-HFYD": {
+      "owner": "kpoy",
+      "type": "Lifetime",
+      "created": "2026-10-18T14:03:19.545203+00:00",
+      "expires": null,
+      "active": true,
+      "hwid": null
+    }
+  }
 }
