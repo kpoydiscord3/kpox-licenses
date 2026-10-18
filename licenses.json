@@ -1,3 +1,12 @@
 {
-  "licenses": {}
+  "licenses": {
+    "KPOY-8GC9-RVH0-X0AH": {
+      "owner": "kpoy",
+      "type": "Lifetime",
+      "created": "2026-10-18T14:12:35.622027+00:00",
+      "expires": null,
+      "active": true,
+      "hwid": null
+    }
+  }
 }
